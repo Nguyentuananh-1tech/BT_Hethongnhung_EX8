@@ -1,5 +1,5 @@
 
-# Bài tập 8 - ADC Configuration
+# Bài tập 8 - Chuyển đổi ADC
 
 # Yêu cầu:
 - Cấu hình một kênh ADC để đọc giá trị từ một biến trở hoặc cảm biến nhiệt độ.
