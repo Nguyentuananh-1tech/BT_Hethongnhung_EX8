@@ -1,4 +1,4 @@
-## Giới thiệu
+
 # Bài tập 8 - ADC Configuration
 
 # Yêu cầu:
